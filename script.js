@@ -22,3 +22,5 @@ const isRaining = (value) => {
         return precipitation;
     };
 };
+
+const clothes = ["Umbrella", "Sunglasses", "Warm clothes"];
