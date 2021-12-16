@@ -24,3 +24,18 @@ const isRaining = (value) => {
 };
 
 const clothes = ["Umbrella", "Sunglasses", "Warm clothes"];
+
+// Function that return true if it's raining, else false.
+const isTrue = () => {
+    let i = Math.floor(Math.random() * 2 +1);
+    if (i === 1) {
+        return true;
+    } else {
+        return false;
+    }
+};
+
+const randomMessage = () => {
+
+};
+
